@@ -2,4 +2,4 @@
 
 ## this is a fork of [CodeHS-APCS](https://github.com/APCS-CodeHS/CodeHS-APCS) but for Ontario Curriculum
 
-###### I'm an Ontario student just trying to help out. Please don't use this as an easy way out of your assignments. Instead, use it to help you learn the code. And this may not always be the same as what your teacher assigns you
+###### I'm an Ontario student just trying to help out. Don't use this to cheat on your assignments. Instead, use this to learn. The assignments would most likely be different from this, so there's no use in trying to use this to cheat.

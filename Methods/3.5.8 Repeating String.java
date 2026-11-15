@@ -10,7 +10,7 @@ public String repeatString(String str, int n)
     return text;
 }
 
-//or you can simple just
+//or you can simple just do this instead
 
 public String repeatString(String str, int n)
 {

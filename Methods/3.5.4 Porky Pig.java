@@ -1,6 +1,4 @@
-public String porkyPig(String something)
-{
-  String porkyPig = "Bdap bdap bb " + something; 
-	  return porkyPig;
+public String porkyPig(String something) {
+	return "Bdap bdap bb " + something;
 }
 

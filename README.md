@@ -6,7 +6,7 @@
 
 ### Another helpful resource is [Java Full Course for free ☕](https://www.youtube.com/watch?v=xTtL8E4LzTQ&t=24285s) by [BroCode](https://www.youtube.com/@BroCodez)
 
-### Credits
+## Credits
 
-https://github.com/bwingdwing/CodeHS_Basic-Java
-https://github.com/APCS-CodeHS/CodeHS-APCS
+* https://github.com/bwingdwing/CodeHS_Basic-Java
+* https://github.com/APCS-CodeHS/CodeHS-APCS

@@ -1,11 +1,5 @@
-
-public class Add10
+public class Add10 extends ConsoleProgram
 {
-    public static void main(String[] args) {
-        Add10 program = new Add10();
-        program.run();
-    }
-
     public void run()
     {
         add10(1);

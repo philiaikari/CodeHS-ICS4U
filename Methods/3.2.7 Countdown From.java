@@ -4,16 +4,12 @@ public class Countdown extends ConsoleProgram
     {
         countdownFrom(5);
     }
-    
-    private void countdownFrom(int x)\
-    {
-        System.out.println(5);
-        System.out.println(4);
-        System.out.println(3);
-        System.out.println(2);
-        System.out.println(1);
-        System.out.println(0);
-    }
-}
 
+    private void countdownFrom(int x)
+    {
+        for(int i = x; i >= 0; i--)
+        {
+            System.out.println(i);
+        }
+    }
 }

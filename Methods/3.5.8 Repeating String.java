@@ -10,3 +10,9 @@ public String repeatString(String str, int n)
     return text;
 }
 
+//or you can simple just
+
+public String repeatString(String str, int n)
+{
+    return str.repeat(n);
+}
